@@ -30,7 +30,7 @@ A   L S  I G
 Y A   H R
 P     I</pre>
 
-
+ 
 **Related Topics**:  
 [String](https://leetcode.com/tag/string/)
 
